@@ -1,5 +1,5 @@
-# ![Hello Animation](./gifs/hello.gif)
-, I'm Suhail Zenic 
+![Hello Animation](./gifs/hello.gif)
+# I'm Suhail Zenic 
 
 ![Typewriter Animation](./gifs/intro/typewriter.gif)
 
