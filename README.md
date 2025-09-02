@@ -1,5 +1,7 @@
-![Hello Animation](./gifs/hello.gif)
-# I'm Suhail Zenic 
+![Hello Animation](https://raw.githubusercontent.com/suhail-zenic/suhail-zenic/main/gifs/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
+
+# I'm Suhail Zenic
+
 
 ![Typewriter Animation](./gifs/intro/typewriter.gif)
 
